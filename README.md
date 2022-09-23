@@ -9,8 +9,15 @@ RVLT is the council & support system.
 
 ![cult-money-1500x500](https://user-images.githubusercontent.com/43786652/191938463-b23804e7-8e96-4874-889b-9c027c2f471a.jpeg)
 
+## The Movement
+We recommend to watch [this video](https://cultdao.io).  
+
+![Screenshot 2022-09-23 at 12 12 22](https://user-images.githubusercontent.com/43786652/191939581-faeda995-e77b-470e-af0d-f6704d12b822.png)
+
 ## Contribute
-This project shall emerge to be a fully decentralized forum. So we might start by saying everyone is invited to contribute.
+This project shall emerge to be a fully decentralized forum.  So you might want to upload your CULT memes images, etc. at https://github.com/cultfamily-on-github/cult-artefacts-collection to start contributing.
+
+
 ### Start Locally
 ```bash
 git clone https://github.com/michael-spengler/world-fairness-forum.git
