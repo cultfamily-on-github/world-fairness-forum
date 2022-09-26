@@ -1,5 +1,5 @@
 # World Fairness Forum
-The World Fairness Forum might inspire people to explore and potentially improve and support the architecture of freedom. [See also](https://github.com/michael-spengler/cultmagazine#architecture).   
+The World Fairness Forum might inspire people to explore and potentially improve and support architectures of freedom. [See also](https://github.com/michael-spengler/cultmagazine#architecture).   
 
 As such the World Fairness Forum might serve as an embodiment of freedom inspiring further embodiments of freedom.    
 
